@@ -18,6 +18,9 @@ This project identified distinct customer segments based on their RFM (Recency, 
 
 
 # Insights Deep Dive
+
+![python](https://github.com/user-attachments/assets/6ee42fd8-8b5d-4029-a7b3-511e0ae186eb)
+
 ### Customer Segmentation:
 - **Main insight 1**: Customers can be effectively segmented based on their RFM scores, revealing distinct groups with varying purchase patterns.
      - The analysis used K-Means clustering to identify four primary customer segments, in addition to outlier groups. These segments exhibit different levels of Recency, Frequency, and Monetary Value.
@@ -57,7 +60,7 @@ This project identified distinct customer segments based on their RFM (Recency, 
    - Upselling and cross-selling strategies can increase their average order value.
 - **Main insight 4**: Monetary & Frequency outliers ("DELIGHT") are the most valuable customers.
    -  Maintaining their loyalty and maximizing their lifetime value is paramount.
-
+ 
 # Recommendations:
 Based on the insights and findings above, the following recommendations are made for the marketing team:
 
