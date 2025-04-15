@@ -5,7 +5,7 @@ This project aims to segment customers of an online retail business to improve m
 - **Marketing Optimization**: Tailoring marketing efforts to specific customer segments.
 - **Outlier Customer Behavior**: Understanding and addressing the behavior of unusual customer groups.
   
-The Python code used to conduct this analysis, including data cleaning, feature engineering, and model building, can be found in the provided colab Notebook.[[Click here]](https://colab.research.google.com/drive/1GH2sdwuMneIPxsxrY2ZYpln4OZfEh9Q7?usp=sharing)
+The full Python workflow, including data cleaning, RFM feature engineering, and K-Means clustering, is available in the Colab notebook.[[Click here]](https://colab.research.google.com/drive/1GH2sdwuMneIPxsxrY2ZYpln4OZfEh9Q7?usp=sharing)
 
 # Data Structure & Initial Checks
 The company's main database structure consists of a single table: the Online Retail dataset. The dataset contains transactional data. A description of the table is as follows:
